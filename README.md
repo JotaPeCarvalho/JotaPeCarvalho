@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning ReactJS/Java
 - 📫 How to reach me: joaopedrocbsss@gmail.com
 - 😄 Pronouns: He/Him
-- 
+
+</br>
 <div align="center">
   <a href="https://github.com/JotaPeCarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaPeCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -24,6 +25,8 @@
 </div>
   
   ##
+  
+  </br>
  
 <div> 
   <a href="https://instagram.com/joaopcbss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
