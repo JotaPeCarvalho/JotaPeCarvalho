@@ -1,8 +1,7 @@
 ### Hi there, I'm João Pedro Carvalho 👋
 
 
-- 🔭 I’m currently looking for an internship to develop my programming skills
-- 🌱 I’m currently learning .NET
+- 🔭 I'm currently looking to improve my skills as a .NET programmer
 - 📫 How to reach me: joaopedrocbsss@gmail.com
 - 😄 Pronouns: He/Him
 
