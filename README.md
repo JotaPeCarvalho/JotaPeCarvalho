@@ -7,12 +7,18 @@
 - 👀 Take a look at my repository
 - 😄 Pronouns: He/Him
 
-</br>
-<div align="center">
-  <a href="https://github.com/JotaPeCarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaPeCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaPeCarvalho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=JotaPeCarvalho&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimitryduarte&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JotaPeCarvalho&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=JotaPeCarvalho&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
+  <img src="https://github-profile-trophy.vercel.app/?username=JotaPeCarvalho&theme=gruvbox" />
+
+
+
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Jp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
