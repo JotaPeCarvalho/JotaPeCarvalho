@@ -1,7 +1,7 @@
 ### Hi there, I'm João Pedro Carvalho 👋
 
 
-- 🔭 I'm currently looking to improve my skills as a .NET programmer
+- 🔭 I'm currently looking to improve my skills as a .NET dev
 - 💼 Full Stack Developer Jr at DF Sistemas
 - 📫 How to reach me: joaopedrocbsss@gmail.com
 - 👀 Take a look at my repository
